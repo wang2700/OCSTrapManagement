@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982165856125",
+    "firebase_url": "https://ocs-trap-management.firebaseio.com",
+    "project_id": "ocs-trap-management",
+    "storage_bucket": "ocs-trap-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982165856125:android:9ceff69af62ba8f9",
+        "android_client_info": {
+          "package_name": "com.example.jerry.ocstrapmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982165856125-u82dc02i0ejeq7vjqd16gu3n4l9r6mm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jerry.ocstrapmanagement",
+            "certificate_hash": "a01edea0dfaec1958999d43021bf6c6a7ef9ca28"
+          }
+        },
+        {
+          "client_id": "982165856125-kgfc5pqskv0mscv1g5bdmppmkb7sjsbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8c5DKZLMsAErMTZ7pJ9rDIGFx6otPSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982165856125-kgfc5pqskv0mscv1g5bdmppmkb7sjsbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OCS Trap Management</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="create_new_borrower">Create New Borrower</string>
+
+    <string-array name="name">
+        <item> </item>
+    </string-array>
+</resources>
